@@ -1,5 +1,6 @@
 # tensorflow_model
-berisikan model model neural network yang dibuat menggunakan library tensorflow. model yang dibuat seperti:
+Collection of Neural network and deep learning algorithm written in Python. Tensorflow are used to implement NN model.
+Covering supervised machine learning case (and datasets) such as :
   - binary Text Classification (Sentiment Analysist)
   - multiclass Text Classification (topic of news classification)
   - Stock Prediction (bitcoin cryptocurrency in USD)
